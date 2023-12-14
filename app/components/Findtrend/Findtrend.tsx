@@ -11,7 +11,7 @@ const Findtrend = () => {
         <h4 className='text-[30px] lg:text-[50px] font-bold text-[#ADADAD]'>fulfill your daily browsing needs.</h4>
     
     </div>
-                </section>
+   </section>
   )
 }
 
